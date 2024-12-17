@@ -1,6 +1,3 @@
-Here is the content you can copy and paste into your **README.md** file:
-
-```markdown
 # High-End Password Strength Checker
 
 ## Overview
